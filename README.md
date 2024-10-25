@@ -56,7 +56,7 @@ This project is a simple web application that allows users to register, request 
    ## 2. Project Setup
 
 1. **Download the project**:
-   - Download the zip file from [here](#).
+   
    - Extract the project files.
 
 2. **Open the project in Eclipse**:
